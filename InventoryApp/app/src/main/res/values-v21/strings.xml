@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_view_title_text">No products added yet.</string>
+    <string name="sale_list_button">Sale</string>
+    <string name="text_quantity_list">Quantity:</string>
+    <string name="product_name_hint">Product</string>
+    <string name="price_hint">Price</string>
+    <string name="received_button">Received</string>
+    <string name="provider_hint">Provider</string>
+    <string name="buy_button">Buy</string>
+    <string name="edit_activity">Edit Product</string>
+    <string name="add_activity">Add A Product</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="product_add">Product saved</string>
+    <string name="product_saved_failed">Product can\'t be saved</string>
+    <string name="edit_success">Product was edited</string>
+    <string name="edit_failed">Product can\'t be edited</string>
+    <string name="email_provider_hint">Provider email</string>
+    <string name="new_request">New request for</string>
+    <string name="no_email">No email apps available</string>
+    <string name="bigger_than_zero">The quantity should be bigger than zero.</string>
+    <string name="currency">US$</string>
+    <string name="add_picture">Find a picture</string>
+    <string name="write_something">Enter a value to change the quantity</string>
+    <string name="name_and_price_required">Product name and price are required</string>
+    <string name="no_contact">There are no provider contact available</string>
+    <string name="provider_required">Provider is required</string>
+    <string name="name_required">Name is required</string>
+    <string name="price_required">Price is required</string>
+    <string name="empty_fields">Fill in the form fields</string>
+    <string name="email_is_required">Provider e-mail is required</string>
+    <string name="image_is_required">Product Image is required</string>
+    <string name="delete_failed">Product can\'t be deleted</string>
+    <string name="delete_success">Product was deleted</string>
+</resources>
