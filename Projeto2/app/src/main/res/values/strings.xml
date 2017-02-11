@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="zero">0</string>
+    <string name="add3">+3 points</string>
+    <string name="add2">+2 points</string>
+    <string name="free">Free throw</string>
+    <string name="reset">Reset Game</string>
+</resources>
