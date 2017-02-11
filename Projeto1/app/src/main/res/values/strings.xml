@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivial Apps</string>
+    <string name="company_name">Trivial Apps</string>
+    <string name="company_description">
+        Somos uma empresa focada no desenvolvimento de aplicações para dispositivos móveis que sejam simples e funcionais.
+    </string>
+    <string name="company_address">Rua: Ayrton Senna, 152</string>
+    <string name="company_email">arthurgrangeiro@outlook.com</string>
+</resources>
