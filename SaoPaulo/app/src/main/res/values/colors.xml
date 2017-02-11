@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#FF5722</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#BF360C</color>
+
+    <!-- Primary font color for app -->
+    <color name="font_color">#212121</color>
+
+    <!-- Secondary font color for app -->
+    <color name="font_sub_color">#757575</color>
+
+    <!-- Tab font color (default) -->
+    <color name="tab_font_color">#FFCCBC</color>
+
+    <!-- Tab font color when the tab is selected -->
+    <!-- Indicator tab color -->
+    <color name="tab_select_font_color">#FFFFFF</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFFFFF</color>
+
+</resources>

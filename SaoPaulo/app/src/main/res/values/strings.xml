@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">São Paulo</string>
+
+    <string name="section_name_museums">Museum</string>
+    <string name="section_name_parks">Park</string>
+    <string name="section_name_sites">Site</string>
+    <string name="section_name_bars">Bar</string>
+
+    <string name="museum_pinacoteca">Pinacoteca do Estado de São Paulo</string>
+    <string name="museum_mam">MAM - Museu de Arte Moderna</string>
+    <string name="museum_of_soccer">Museu do Futebol</string>
+    <string name="museum_of_language">Museu da Língua Portuguesa</string>
+    <string name="museum_catavento">Catavento Cultural e Educacional</string>
+    <string name="museum_tomie_otake">Instituto Tomie Ohtake</string>
+    <string name="museum_masp">MASP - Museu de Arte de São Paulo</string>
+
+    <string name="park_ibirapuera">Parque do Ibirapuera</string>
+    <string name="park_burle_marx">Parque Burle Marx</string>
+    <string name="park_villa_lobos">Parque Villa Lobos</string>
+    <string name="park_agua_branca">Parque da Água Branca</string>
+    <string name="park_buenos_aires">Parque Buenos Aires</string>
+    <string name="park_of_light">Parque da Luz</string>
+    <string name="park_of_youth">Parque da Juventude</string>
+
+    <string name="site_cathedral_of_se">Catedral da Sé</string>
+    <string name="site_pateo_do_colegio">Pateo do Colégio</string>
+    <string name="site_bolsa_de_valores">Bolsa de Valores de São Paulo</string>
+    <string name="site_teatro_municipal">Teatro Municipal</string>
+    <string name="site_basilica_bento">Basílica de São Bento</string>
+    <string name="site_ccbb">Centro Cultural Banco do Brasil</string>
+    <string name="site_edificio_martinelli">Edifício Martinelli</string>
+
+    <string name="bar_brahma">Bar Brahma</string>
+    <string name="bar_juarez">Bar do Juarez</string>
+    <string name="bar_skye">Skye</string>
+    <string name="bar_frango">Frangó</string>
+    <string name="bar_astor">Bar do Astor</string>
+    <string name="bar_do_luiz">Bar do Luiz Fernandes</string>
+    <string name="bar_frank">Bar do Frank</string>
+
+    <string name="museum_pinacoteca_address">Praça da Luz, 2, Centro 01120-010</string>
+    <string name="museum_mam_address">Avenida Pedro Álvares Cabral, Sul 04094-050</string>
+    <string name="museum_of_soccer_address">Praça Charles Miller, s/nº, 01234-010</string>
+    <string name="museum_of_language_address">Praça da Luz, s/nº Portão 1</string>
+    <string name="museum_catavento_address">Praça Cívica Ulisses Guimarães, s/nº, 03003-060</string>
+    <string name="museum_tomie_otake_address">Avenida Faria Lima, 201, Oeste 01451-001</string>
+    <string name="museum_masp_address">Avenida Paulista, 1578, Centro 01310-200</string>
+
+    <string name="park_ibirapuera_address">Avenida Pedro Álvares Cabral, s/nº, 04002-010</string>
+    <string name="park_burle_marx_address">Avenida Dona Helena Pereira de Moraes, 200, 05707-000</string>
+    <string name="park_villa_lobos_address">Avenida Prof. Fonseca Rodrigues, 1025, 05461-010</string>
+    <string name="park_agua_branca_address">Avenida Francisco Matarazzo, 455, 01156-000</string>
+    <string name="park_buenos_aires_address">Avenida Angélica, s/nº, 01228-000</string>
+    <string name="park_of_light_address">Rua Ribeiro de Lima, 214, 01122-000</string>
+    <string name="park_of_youth_address">Rua Manuel dos Santos Neto, 23, 02032-010</string>
+
+    <string name="site_cathedral_of_se_address">Praça da Sé, 01001-000</string>
+    <string name="site_pateo_do_colegio_address">Largo Páteo do Colégio, 2, 01016-040</string>
+    <string name="site_bolsa_de_valores_address">Rua XV de Novembro, 275, 01010-901</string>
+    <string name="site_teatro_municipal_address">Praça Ramos de Azevedo, s/nº , 01037-010</string>
+    <string name="site_basilica_bento_address">Largo de São Bento, s/nº , 01029-010</string>
+    <string name="site_ccbb_address">Rua Álvares Penteado, 112, 01012-000</string>
+    <string name="site_edificio_martinelli_address">Rua São Bento, 405, 01011-10</string>
+
+    <string name="bar_brahma_address">Avenida São João, 677 - 3224-1251</string>
+    <string name="bar_juarez_address">Avenida Presidente Juscelino Kubitschek, 1.164 - 3078-3458</string>
+    <string name="bar_skye_address">Avenida Brigadeiro Luís Antônio, 4.700 - 3055-4702</string>
+    <string name="bar_frango_address">Largo da Matriz Nossa Senhora do Ó, 168 - 3932-4818</string>
+    <string name="bar_astor_address">Rua Delfina, 163 - 3815-1364</string>
+    <string name="bar_do_luiz_address">Rua Augusto Tolle, 610 - 2976-3556</string>
+    <string name="bar_frank_address">Rua São Carlos do Pinhal, 424 - 3145-8000</string>
+
+</resources>
