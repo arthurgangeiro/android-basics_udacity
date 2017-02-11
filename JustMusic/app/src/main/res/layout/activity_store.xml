@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:id="@+id/activity_store"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:orientation="vertical"
+        tools:context="br.com.arthurgrangeiro.justmusic.Store">
+
+        <TextView
+            style="@style/introduction"
+            android:text="@string/details_store" />
+
+        <ImageView
+            android:id="@+id/store_banner"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/imagine_dragons" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/text_margin"
+            android:background="@color/white"
+            android:padding="@dimen/activity_horizontal_margin"
+            android:text="@string/news"
+            android:textColor="@color/dark_gray"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:padding="@dimen/item_vertical_margin">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RelativeLayout style="@style/store_relative">
+
+                    <ImageView
+                        android:id="@+id/dont_wanna_know"
+                        style="@style/store_image"
+                        android:src="@drawable/store_dont_wanna_know" />
+
+                    <TextView
+                        style="@style/store_text"
+                        android:layout_below="@+id/dont_wanna_know"
+                        android:text="@string/dont_wanna_know" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/store_relative">
+
+                    <ImageView
+                        android:id="@+id/let_me_love"
+                        style="@style/store_image"
+                        android:src="@drawable/store_let_me_love_you" />
+
+                    <TextView
+                        style="@style/store_text"
+                        android:layout_below="@+id/let_me_love"
+                        android:text="@string/let_me_love" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/store_relative">
+
+                    <ImageView
+                        android:id="@+id/side_to_side"
+                        style="@style/store_image"
+                        android:src="@drawable/store_side_to_side" />
+
+                    <TextView
+                        style="@style/store_text"
+                        android:layout_below="@+id/side_to_side"
+                        android:text="@string/side_to_side" />
+                </RelativeLayout>
+
+
+                <RelativeLayout style="@style/store_relative">
+
+                    <ImageView
+                        android:id="@+id/starboy"
+                        style="@style/store_image"
+                        android:src="@drawable/store_starboy" />
+
+                    <TextView
+                        style="@style/store_text"
+                        android:layout_below="@+id/starboy"
+                        android:text="@string/starboy" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/store_relative">
+
+                    <ImageView
+                        android:id="@+id/work"
+                        style="@style/store_image"
+                        android:src="@drawable/store_work_rihanna" />
+
+                    <TextView
+                        style="@style/store_text"
+                        android:layout_below="@+id/work"
+                        android:text="@string/work" />
+                </RelativeLayout>
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+</ScrollView>

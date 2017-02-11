@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:orientation="vertical"
+        tools:context="br.com.arthurgrangeiro.justmusic.MainActivity">
+
+        <TextView
+            android:id="@+id/first_screen_description"
+            style="@style/introduction"
+            android:text="@string/first_screen" />
+
+        <LinearLayout
+            android:id="@+id/song_one"
+            style="@style/yoursongs_linear">
+
+            <TextView
+                android:id="@+id/song_one_music"
+                style="@style/yoursongs_song"
+                android:text="@string/centuries" />
+
+            <TextView
+                android:id="@+id/song_one_artist"
+                style="@style/yoursongs_artist"
+                android:text="@string/fall_out_boys" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/song_two"
+            style="@style/yoursongs_linear">
+
+            <TextView
+                android:id="@+id/song_two_music"
+                style="@style/yoursongs_song"
+                android:text="@string/immortals" />
+
+            <TextView
+                android:id="@+id/song_two_artist"
+                style="@style/yoursongs_artist"
+                android:text="@string/fall_out_boys" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/song_three"
+            style="@style/yoursongs_linear">
+
+            <TextView
+                android:id="@+id/song_three_music"
+                style="@style/yoursongs_song"
+                android:text="@string/hall_of_fame" />
+
+            <TextView
+                android:id="@+id/song_three_artist"
+                style="@style/yoursongs_artist"
+                android:text="@string/the_script" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/song_four"
+            style="@style/yoursongs_linear">
+
+            <TextView
+                android:id="@+id/song_four_music"
+                style="@style/yoursongs_song"
+                android:text="@string/broken_strings" />
+
+            <TextView
+                android:id="@+id/song_four_artist"
+                style="@style/yoursongs_artist"
+                android:text="@string/james_morrison" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/song_five"
+            style="@style/yoursongs_linear">
+
+            <TextView
+                android:id="@+id/song_five_music"
+                style="@style/yoursongs_song"
+                android:text="@string/i_see_fire" />
+
+            <TextView
+                android:id="@+id/song_five_artist"
+                style="@style/yoursongs_artist"
+                android:text="@string/ed_sheeran" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/store_button"
+            style="@style/my_button"
+            android:text="@string/store" />
+
+    </LinearLayout>
+</ScrollView>

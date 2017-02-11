@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JustMusic</string>
+    <string name="centuries">Centuries</string>
+    <string name="fall_out_boys">Fall Out Boys</string>
+    <string name="immortals">Immortals</string>
+    <string name="hall_of_fame">Hall Of Fame</string>
+    <string name="ed_sheeran">Ed Sheeran</string>
+    <string name="broken_strings">Broken String</string>
+    <string name="james_morrison">James Morrison</string>
+    <string name="the_script">The Script</string>
+    <string name="i_see_fire">I See Fire</string>
+    <string name="first_screen">This screen shows the music library.</string>
+    <string name="details">Details</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="details_description">That screen shows a lot of informations about the song, the artist and about the file.</string>
+    <string name="back">Back</string>
+    <string name="dont_wanna_know">Dont Wanna Know</string>
+    <string name="let_me_love">Let Me Love You</string>
+    <string name="side_to_side">Side To Side</string>
+    <string name="starboy">Starboy</string>
+    <string name="work">Work</string>
+    <string name="news">News</string>
+    <string name="details_store">This screen represents a store. Here the user can buy songs.</string>
+    <string name="playin_now">Playing Now</string>
+    <string name="details_activity">Details</string>
+    <string name="playin_now_activity">Playing Now</string>
+    <string name="store_activity">Store</string>
+    <string name="your_songs">Your Songs</string>
+    <string name="store">Store</string>
+    <string name="before">Before</string>
+    <style name="artist">Artista: </style>
+</resources>
