@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Cheese Quiz Games</string>
+    <string name="game_name" translatable="false">Star Wars Quiz</string>
+
+    <string name="question1">Which planet did Queen Amidala rule over?</string>
+    <string name="q1_answer" translatable="false">Naboo</string>
+    <string name="q1_option1" translatable="false">Geonosis</string>
+    <string name="q1_option2" translatable="false">Coruscant</string>
+    <string name="q1_option3" translatable="false">Endor</string>
+
+    <string name="question2">Which of these characters is a Sith?</string>
+    <string name="q2_option1" translatable="false">Han Solo</string>
+    <string name="q2_option2" translatable="false">Finn</string>
+    <string name="q2_option3" translatable="false">R2-D2</string>
+    <string name="q2_answer" translatable="false">Darth Vader</string>
+
+    <string name="question3">Who killed Han Solo?</string>
+    <string name="q3_option1" translatable="false">Darth Maul</string>
+    <string name="q3_answer" translatable="false">Kylo Ren</string>
+    <string name="q3_option2" translatable="false">Chewabacca</string>
+    <string name="q3_option3" translatable="false">BB-8</string>
+
+    <string name="question4">Which of these characters are Jedi?</string>
+    <string name="q4_option1" translatable="false">Han Solo</string>
+    <string name="q4_answer1" translatable="false">Obi Wan Kenobi</string>
+    <string name="q4_answer2" translatable="false">Luke Skywalker</string>
+    <string name="q4_option2" translatable="false">Boba Fett</string>
+
+    <string name="question5">To whom Obi Wan Kenobi said: \"You were the chosen one! It was said that you would destroy the Sith, not join them! Bring balance to the force... Not leave it in darkness!\"?</string>
+    <string name="q5_answer1" translatable="false">Anakin Skywalker</string>
+    <string name="q5_answer2" translatable="false">To Anakin Skywalker</string>
+    <string name="submit">Submit</string>
+
+    <string name="not_good">Not good.</string>
+    <string name="good">Good job.</string>
+    <string name="excellent">Excellent!</string>
+    <string name="user_score">Your score is: %1$s from 5.</string>
+
+</resources>
+
+
+
+
+
+
+
+

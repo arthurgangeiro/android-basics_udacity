@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="QuestionText">
+        <item name="android:background">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:paddingLeft">@dimen/padding_linear</item>
+        <item name="android:paddingBottom">@dimen/padding_linear</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="QuestionOptionText">
+        <item name="android:background">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:paddingLeft">@dimen/option_question_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/option_question_horizontal_padding</item>
+        <item name="android:paddingTop">@dimen/option_question_vertical_padding</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="OptionText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingLeft">@dimen/padding_option</item>
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="RadioGroupStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">@dimen/margin_question</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:padding">@dimen/padding_linear</item>
+    </style>
+
+    <style name="LinearStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/margin_question</item>
+        <item name="android:padding">@dimen/padding_linear</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_margin">@dimen/margin_question</item>
+    </style>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+

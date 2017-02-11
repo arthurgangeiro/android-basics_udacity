@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="padding_question">4dp</dimen>
+    <dimen name="margin_question">8dp</dimen>
+    <dimen name="padding_linear">8dp</dimen>
+    <dimen name="padding_option">8dp</dimen>
+    <dimen name="option_question_horizontal_padding">16dp</dimen>
+    <dimen name="option_question_vertical_padding">8dp</dimen>
+</resources>

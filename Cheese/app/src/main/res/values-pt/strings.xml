@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game_name">Star Wars Quiz</string>
+    <string name="question1">Qual planeta a Rainha Amidala governou?</string>
+    <string name="question2">Qual destes personagens é um Sith?</string>
+    <string name="question3">Quem matou Han Solo?</string>
+    <string name="question4">Qual destes personagens é um Jedi?</string>
+    <string name="question5">Para quem Obi Wan Kenobi disse: \" Você era o Escolhido! Foi dito que você iria destruir os Sith, não se unir a eles! Trazer equilíbrio à Força e não jogá-la nas trevas!\"?</string>
+
+    <string name="good">Muito bom.</string>
+    <string name="not_good">Nada bom.</string>
+    <string name="excellent">Excelente!</string>
+
+    <string name="submit">Enviar</string>
+    <string name="user_score">Você fez %1$s de 5.</string>
+</resources>
